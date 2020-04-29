@@ -1,0 +1,92 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+INTEGRIS Miami Hospital,Miami,114,"1,754","5,554","$161,606 "
+AllianceHealth Clinton,Clinton,56,888,"2,631","$86,730 "
+AllianceHealth Durant,Durant,140,"5,012","18,415","$952,518 "
+AllianceHealth Midwest,Midwest City,255,"6,612","31,089","$1,192,326 "
+AllianceHealth Ponca City,Ponca City,48,"2,306","8,484","$298,754 "
+AllianceHealth Seminole,Seminole,32,507,"1,362","$68,475 "
+AllianceHealth Woodward,Woodward,40,"1,077","2,761","$212,576 "
+Ascension Jane Phillips Medical Center,Bartlesville,114,"4,206","13,490","$408,145 "
+Ascension Saint John Owasso,Owasso,32,"1,802","4,419","$128,748 "
+Bailey Medical Center,Owasso,73,"1,610","3,546","$232,913 "
+Blackwell Regional Hospital,Blackwell,34,483,"1,531","$37,515 "
+Bristow Medical Center,Bristow,55,"1,679","2,591","$248,562 "
+Cancer Treatment Centers of America Tulsa,Tulsa,40,683,"3,870",$0 
+Chickasaw Nation Medical Center,Ada,72,"2,690","8,300",$0 
+Choctaw Memorial Hospital,Hugo,34,919,"3,884","$43,492 "
+Choctaw Nation Health Care Center,Talihina,43,"1,223","3,230",$0 
+Claremore IHS Hospital,Claremore,46,822,"2,503",$0 
+Comanche County Memorial Hospital,Lawton,229,"9,592","45,902","$986,811 "
+Community Hospital,Oklahoma City,45,"2,310","4,819","$579,224 "
+Duncan Regional Hospital,Duncan,110,"3,928","14,838","$371,757 "
+Elkview General Hospital,Hobart,38,567,"1,585","$27,509 "
+Grady Memorial Hospital,Chickasha,49,910,"3,245","$93,615 "
+Great Plains Regional Medical Center,Elk City,54,"1,505","5,575","$161,872 "
+Heart Hospital at Saint Francis,Tulsa,88,"5,592","21,021","$442,240 "
+Hillcrest Hospital Claremore,Claremore,65,"2,370","7,988","$294,700 "
+Hillcrest Hospital Cushing,Cushing,95,866,"2,998","$78,326 "
+Hillcrest Hospital Henryetta,Henryetta,41,571,"2,337","$69,945 "
+Hillcrest Hospital Pryor,Pryor,24,603,"1,190","$111,021 "
+Hillcrest Hospital South,Tulsa,164,"9,411","45,066","$816,152 "
+Hillcrest Medical Center,Tulsa,480,"22,448","125,933","$2,888,010 "
+INTEGRIS Baptist Medical Center,Oklahoma City,667,"28,269","183,529","$4,250,825 "
+INTEGRIS Bass Baptist Health Center,Enid,183,"3,347","11,505","$444,913 "
+INTEGRIS Canadian Valley Regional Hospital,Yukon,74,"3,516","13,869","$382,853 "
+INTEGRIS Community Hospital at Council Crossing,Oklahoma City,0,0,0,$0 
+INTEGRIS Community Hospital at OKC West,Oklahoma City,0,0,0,$0 
+INTEGRIS Community Hospital in Del City,Del City,0,0,0,$0 
+INTEGRIS Community Hospital in Moore,Moore,0,0,0,$0 
+INTEGRIS Deaconess Hospital,Oklahoma City,231,"3,972","19,047","$748,506 "
+INTEGRIS Grove Hospital,Grove,58,"1,765","6,136","$200,115 "
+INTEGRIS Health Edmond,Edmond,40,"2,790","10,390","$363,211 "
+INTEGRIS Southwest Medical Center,Oklahoma City,252,"10,308","52,555","$1,347,490 "
+Jack C. Montgomery VA Medical Center,Muskogee,0,0,0,$0 
+Jackson County Memorial Hospital,Altus,49,"2,162","7,846","$206,720 "
+Lakeside Women's Hospital,Oklahoma City,23,"1,432","5,988","$128,817 "
+Lawton Indian Hospital,Lawton,38,319,"2,546",$0 
+Lindsay Municipal Hospital,Lindsay,26,999,"6,599","$13,929 "
+McAlester Regional Health Center,McAlester,153,"4,135","13,156","$255,493 "
+McBride Clinic Orthopedic Hospital,Oklahoma City,64,"3,513","9,425","$387,711 "
+Memorial Hospital,Stilwell,40,"1,047","3,858","$34,481 "
+Mercy Hospital Ada,Ada,148,"3,143","12,550","$320,561 "
+Mercy Hospital Ardmore,Ardmore,180,"5,725","21,639","$561,528 "
+Mercy Hospital Oklahoma City,Oklahoma City,308,"16,355","85,578","$2,053,289 "
+Muscogee Creek Nation Medical Center,Okmulgee,66,600,"1,964","$58,121 "
+Norman Regional HealthPlex Hospital,Norman,0,0,0,$0 
+Norman Regional Hospital,Norman,381,"16,287","67,721","$2,105,418 "
+Northeastern Health System,Tahlequah,90,"3,850","14,951","$311,181 "
+Northwest Surgery Hospital,Oklahoma City,9,184,358,"$64,893 "
+Oklahoma City VA Medical Center,Oklahoma City,0,0,0,$0 
+Oklahoma Heart Hospital North,Oklahoma City,99,"8,550","25,781","$1,094,585 "
+Oklahoma Heart Hospital South,Oklahoma City,44,"5,045","15,509","$559,840 "
+Oklahoma Heart Institute at Hillcrest Medical Center,Tulsa,0,0,0,$0 
+Oklahoma Spine Hospital,Oklahoma City,23,"1,842","4,520","$261,502 "
+Oklahoma State University Medical Center,Tulsa,171,"6,001","24,673","$471,847 "
+Oklahoma Surgical Hospital,Tulsa,75,"4,003","8,966","$385,062 "
+Oklahoma University Medical Center,Oklahoma City,716,"34,479","211,179","$6,915,854 "
+Oklahoma University Medical Center Edmond,Edmond,58,"2,072","9,254","$213,859 "
+One Core Health Orthopedic Hospital,Oklahoma City,8,256,739,"$103,882 "
+Perry Memorial Hospital,Perry,26,237,675,"$19,104 "
+Purcell Municipal Hospital,Purcell,39,501,"1,475","$32,626 "
+Pushmataha Hospital,Antlers,42,503,"1,524","$16,400 "
+Saint Francis Hospital,Tulsa,883,"47,097","240,913","$3,815,636 "
+Saint Francis Hospital Muskogee,Muskogee,320,"7,856","38,814","$573,528 "
+Saint Francis Hospital Muskogee East,Muskogee,45,"1,751","4,812","$80,222 "
+Saint Francis Hospital South,Tulsa,0,0,0,$0 
+Saint Francis Hospital Vinita,Vinita,55,734,"2,389","$72,771 "
+Saint John Broken Arrow,Broken Arrow,44,"2,129","4,728","$261,999 "
+Saint John Medical Center,Tulsa,495,"27,746","149,735","$1,996,168 "
+Saint Mary's Regional Medical Center,Enid,164,"5,181","19,250","$558,291 "
+Sequoyah Memorial Hospital,Sallisaw,41,505,"2,028","$39,483 "
+Southwest Orthopaedic and Reconstructive Specialists,Oklahoma City,10,779,"1,636","$220,036 "
+Southwestern Medical Center,Lawton,140,"3,852","14,860","$387,205 "
+SSM Health Bone & Joint Hospital at St. Anthony,Oklahoma City,33,"1,461","3,743","$90,202 "
+SSM Health Saint Anthony Hospital - Oklahoma City,Oklahoma City,600,"21,797","103,081","$2,688,217 "
+SSM Health St. Anthony Hospital-Shawnee,Shawnee,77,"2,595","15,993","$425,419 "
+Stillwater Medical Center,Stillwater,103,"3,400","10,463","$590,809 "
+Summit Medical Center,Edmond,9,556,"1,119","$425,218 "
+Surgical Hospital Of Oklahoma,Oklahoma City,12,204,422,"$83,671 "
+Tulsa Spine And Specialty Hospital,Tulsa,38,"1,066","3,259","$326,563 "
+W. W. Hastings Indian Hospital,Tahlequah,52,"2,360","6,560",$0 
+Wagoner Community Hospital,Wagoner,100,"2,328","12,975","$51,419 "

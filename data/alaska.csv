@@ -1,0 +1,11 @@
+hospitalName,city,staffedBeds,totalDischarges,patientDays,grossPatientRevenue
+Alaska Native Medical Center,Anchorage,174,"8,376","38,396",$0 
+Alaska Regional Hospital,Anchorage,174,"6,388","34,726","$1,135,761 "
+Bartlett Regional Hospital,Juneau,57,"1,647","6,733","$175,008 "
+Central Peninsula General Hospital,Soldotna,109,"2,525","9,823","$377,680 "
+Foundation Health Partners Fairbanks Memorial Hospital,Fairbanks,212,"4,467","20,829","$501,562 "
+JBER Elmendorf Air Force Base Hospital,Elmendorf Air Force Base,0,0,0,$0 
+Mat-Su Regional Medical Center,Palmer,74,"4,324","17,811","$744,062 "
+Providence Alaska Medical Center,Anchorage,401,"15,660","109,991","$2,440,247 "
+The Children's Hospital at Providence,Anchorage,0,0,0,$0 
+Yukon-Kuskokwim Delta Regional Hospital,Bethel,34,"1,822","4,963",$0 

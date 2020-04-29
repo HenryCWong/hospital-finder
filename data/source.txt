@@ -1,0 +1,10 @@
+https://www.ahd.com/state_statistics.html
+
+
+StaffedBeds: the number of beds available for use by patients at the end of the cost reporting period
+totalDischarges: The total number of inpatient discharges (all payors) is taken from a hospital's most recent Medicare Cost Report (W/S S-3, part I, line 14, column 15).
+PatientDays: The total number of patient days (all payors) is taken from a hospital's most recent Medicare Cost Report (W/S S-3, part I, line 12, column 6).
+GrossPatientRevenue: The total patient revenue (inpatient and outpatient) is taken from a hospital's most recent Medicare Cost Report (W/S G-2, part I, line 25, column 10).
+
+
+

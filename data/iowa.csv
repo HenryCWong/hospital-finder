@@ -1,0 +1,41 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+"Genesis Medical Center, East Rusholme Street",Davenport,329,"15,494","60,753","$1,171,852 "
+Broadlawns Medical Center,Des Moines,117,"3,223","23,099","$306,178 "
+Cedar Falls Medical Center,Cedar Falls,50,708,"2,379","$130,429 "
+CHI Health Mercy Council Bluffs,Council Bluffs,145,"6,014","22,366","$413,518 "
+Fort Madison Community Hospital,Fort Madison,50,"1,048","3,698","$162,080 "
+"Genesis Medical Center, West Central Park",Davenport,0,0,0,$0 
+Great River Medical Center,West Burlington,307,"7,914","24,173","$493,696 "
+Iowa City VA Health Care System,Iowa City,0,0,0,$0 
+Iowa Lutheran Hospital,Des Moines,189,"8,036","38,352","$607,123 "
+Iowa Methodist Medical Center,Des Moines,484,"31,356","134,305","$2,508,402 "
+Lakes Regional Hospital,Spirit Lake,44,988,"3,087","$88,902 "
+Mary Greeley Medical Center,Ames,195,"8,130","30,583","$600,976 "
+Mercy Iowa City,Iowa City,218,"7,143","24,645","$505,541 "
+Mercy Medical Center,Cedar Rapids,243,"8,825","33,207","$1,325,715 "
+Mercy Medical Center - North Campus,Clinton,107,"3,515","10,009","$300,344 "
+MercyOne Des Moines,Des Moines,583,"32,467","152,376","$2,918,020 "
+MercyOne Dubuque Medical Center,Dubuque,179,"7,765","31,884","$447,879 "
+MercyOne North Iowa,Mason City,235,"10,900","44,005","$1,084,069 "
+MercyOne Siouxland Medical Center,Sioux City,197,"8,191","41,831","$578,436 "
+MercyOne West Des Moines Medical Center,West Des Moines,0,0,0,$0 
+Methodist Jennie Edmundson Hospital,Council Bluffs,110,"6,318","22,681","$336,709 "
+Methodist West Hospital,West Des Moines,0,0,0,$0 
+Ottumwa Regional Health Center,Ottumwa,120,"2,219","8,132","$308,013 "
+Saint Anthony Regional Hospital,Carroll,142,"1,513","6,117","$180,126 "
+Saint Luke's Hospital,Cedar Rapids,343,"14,615","67,109","$1,140,794 "
+Skiff Medical Center,Newton,48,676,"2,684","$101,867 "
+Spencer Hospital,Spencer,64,"1,851","6,345","$255,708 "
+Trinity Regional Medical Center,Fort Dodge,46,"3,300","12,403","$299,079 "
+UnityPoint Health - Allen Hospital,Waterloo,199,"9,149","33,116","$662,145 "
+UnityPoint Health - Finley Hospital,Dubuque,106,"4,141","16,165","$336,838 "
+UnityPoint Health - Grinnell Regional Medical Center.,Grinnell,49,"1,108","3,924","$116,576 "
+UnityPoint Health - Marshalltown,Marshalltown,41,"1,702","6,118","$174,692 "
+UnityPoint Health - Trinity Muscatine,Muscatine,45,"1,360","4,190","$136,648 "
+UnityPoint Health Keokuk,Keokuk,49,538,"1,614","$36,603 "
+UnityPoint Health St. Luke's Regional Medical Center,Sioux City,169,"8,845","37,194","$399,775 "
+UnityPoint Health Trinity - Bettendorf,Bettendorf,87,"4,659","14,603","$279,418 "
+University of Iowa Hospitals & Clinics,Iowa City,789,"32,758","215,669","$5,610,654 "
+VA Central Iowa Health Care System,Des Moines,0,0,0,$0 
+Waterloo Medical Center,Waterloo,187,"5,136","25,391","$873,569 "

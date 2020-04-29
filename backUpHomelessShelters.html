@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.14/esri/themes/light/main.css">
+    <script src="https://js.arcgis.com/4.14/"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Homeless Helper</title>
+    <style>
+      html, body, #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+    <script>
+      var graphics = [];
+      var selectedColor;
+      let request = new XMLHttpRequest(); //start https request for json requests
+      url = "test.json"
+      request.open("GET", url, true);
+      request.setRequestHeader("Accept", "application/json"); //specifies the request is a json request
+      request.responseType = "json";
+      
+      /*******************************************************************************
+      * function to encapsulate graph creation with the ability to access JSON objects
+      *******************************************************************************/
+      request.onload = function() 
+      {
+        let users = this.response;
+        require([
+        "esri/Map",
+        "esri/views/MapView",
+        "esri/Graphic"
+        ], 
+        
+        /****************************************************
+        * function to create point graphic objects in the map
+        *****************************************************/
+        function(Map, MapView,Graphic)
+        {
+        
+        
+          var map = new Map(
+          {
+            basemap: "streets"
+          });
+
+          var view = new MapView(
+          {
+            container: "viewDiv",
+            map: map,
+            //center: [-91.768959,37.951424], // longitude, latitude
+            center: [-98.583336,39.833332],
+            zoom: 5
+          });
+        
+           /***************************************
+           * Loop to create multiple point graphics
+           ***************************************/
+          
+          for(var i=0;i<users.length;i++)
+          {
+            if(users[i].objectType == "Shelter")
+            {
+              selectedColor = [226,119,40];
+            }
+            else
+            {
+              selectedColor = [127,0,225];  
+            }
+            
+            // First create a point geometry, specifying lattitude and longitude
+            var point = {
+              type: "point", // autocasts as new Point()
+              longitude: users[i].long,
+              latitude: users[i].lat
+            };
+            
+            // Create point attributes to display on the tooltip
+            var pointAtt = {
+              Name: users[i].name,
+              Type: users[i].objectType,
+              TargetAudience: users[i].targetAudience,
+              Description: users[i].description,
+              Sponsor: users[i].sponsor,
+              DateTime: users[i].dateTime,
+              Address: users[i].address
+            };
+
+            // Create a symbol for drawing the point
+            var markerSymbol = {
+              type: "simple-marker", // autocasts as new SimpleMarkerSymbol()
+              color: selectedColor,
+              outline: {
+                // autocasts as new SimpleLineSymbol()
+                color: [255, 255, 255],
+                width: 2
+              }
+            };
+
+            // Create a graphic and add the geometry and symbol to it
+            var pointGraphic = new Graphic({
+              geometry: point,
+              symbol: markerSymbol,
+              attributes: pointAtt,
+              popupTemplate: {
+                title: "{Type}: {Name}",
+                content: [{ type: "fields",
+                fieldInfos: [
+                  {fieldName: "TargetAudience"},
+                  {fieldName: "Description"},
+                  {fieldName: "Sponsor"},
+                  {fieldName: "DateTime"},
+                  {fieldName: "Address"}
+                ]
+              }]}
+            });
+          graphics.push(pointGraphic);
+        }
+        // Add the graphic to the view's default graphics view
+        // If adding multiple graphics, use addMany and pass in the array of graphics.
+        view.graphics.addMany(graphics);
+      });
+      }
+    request.send();
+    </script>
+  </head>
+  <body>
+    <div id="viewDiv"></div>
+  </body>
+</html>

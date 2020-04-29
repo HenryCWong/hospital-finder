@@ -1,0 +1,13 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Altru Hospital,Grand Forks,294,"12,901","55,185","$1,414,071 "
+CHI Saint Alexius Health Bismarck,Bismarck,225,"7,677","35,449","$584,997 "
+Cobalt Rehabilitation Hospital - Fargo,Fargo,0,0,0,$0 
+Essentia Health Fargo,Fargo,133,"8,364","34,977","$887,994 "
+Fargo VA Health Care System,Fargo,0,0,0,$0 
+Fort Yates Hospital,Fort Yates,12,50,185,$0 
+Quentin N. Burdick Memorial Health Care Facility,Belcourt,27,530,"2,388",$0 
+Sanford Bismarck Medical Center,Bismarck,227,"10,882","54,797","$1,138,164 "
+Sanford Medical Center Fargo,Fargo,512,"25,373","119,590","$3,039,521 "
+Sanford South University Medical Center,Fargo,145,"2,887","14,376","$125,251 "
+Trinity Hospital,Minot,428,"7,128","33,344","$1,234,460 "

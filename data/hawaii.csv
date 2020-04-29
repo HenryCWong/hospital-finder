@@ -1,0 +1,16 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Adventist Health Castle,Kailua,160,"7,708","32,760","$478,872 "
+Hilo Medical Center,Hilo,276,"7,704","43,911","$539,332 "
+Kaiser Permanente Moanalua Medical Center & Clinic,Honolulu,295,"11,715","69,059",$0 
+Kona Community Hospital,Kealakekua,94,"3,276","17,098","$209,616 "
+Kuakini Medical Center,Honolulu,357,"3,653","23,330","$346,189 "
+Maui Memorial Medical Center,Wailuku,219,"8,890","58,693","$726,399 "
+North Hawaii Community Hospital,Kamuela,33,"1,709","5,420","$199,563 "
+Pali Momi Medical Center,Aiea,118,"5,656","32,917","$751,154 "
+Straub Medical Center,Honolulu,159,"6,379","38,433","$1,251,708 "
+The Queen's Medical Center,Honolulu,650,"28,353","179,953","$3,224,693 "
+The Queen's Medical Center West O'Ahu,Ewa Beach,0,0,0,$0 
+Tripler Army Medical Center,Honolulu,0,0,0,$0 
+Wahiawa General Hospital,Wahiawa,150,"1,099","5,119","$99,601 "
+Wilcox Memorial Hospital,Lihue,72,"3,268","16,581","$361,170 "

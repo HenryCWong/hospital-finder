@@ -1,0 +1,28 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Bryan Medical Center - East Campus,Lincoln,574,"24,028","122,963","$1,736,289 "
+Bryan Medical Center - West Campus,Lincoln,230,"7,683","43,032","$321,868 "
+CHI Health Creighton University Medical Center - Bergan Mercy,Omaha,385,"23,238","110,271","$1,659,211 "
+CHI Health Good Samaritan,Kearney,239,"6,989","31,395","$494,749 "
+CHI Health Immanuel,Omaha,232,"9,702","41,718","$666,647 "
+CHI Health Lakeside,Omaha,108,"6,545","23,144","$579,402 "
+CHI Health Midlands,Papillion,28,651,"1,667","$123,593 "
+CHI Health Nebraska Heart,Lincoln,54,"2,707","6,213","$185,338 "
+CHI Health Saint Elizabeth,Lincoln,235,"7,655","32,107","$527,128 "
+CHI Health Saint Francis,Grand Island,186,"6,107","21,993","$540,381 "
+Columbus Community Hospital,Columbus,47,"1,793","5,697","$168,264 "
+Faith Regional Health Services,Norfolk,129,"4,985","20,255","$375,168 "
+Great Plains Health,North Platte,116,"5,195","19,087","$584,010 "
+Kearney Regional Medical Center,Kearney,94,"2,710","12,902","$358,108 "
+Lincoln Surgical Hospital,Lincoln,21,"1,313","1,763","$138,286 "
+Mary Lanning Memorial Hospital,Hastings,143,"4,211","16,240","$385,513 "
+Methodist Fremont Health,Fremont,176,"2,312","8,239","$337,869 "
+Methodist Hospital,Omaha,374,"18,408","93,350","$1,374,648 "
+Methodist Women's Hospital,Omaha,0,0,0,$0 
+Midwest Surgical Hospital,Omaha,19,"1,496","2,138","$139,914 "
+Nebraska Medicine- Bellevue,Bellevue,61,"4,897","15,489",$0 
+Nebraska Spine Hospital,Omaha,34,884,"2,338","$146,726 "
+Omaha VA Medical Center,Omaha,0,0,0,$0 
+OrthoNebraska,Omaha,24,"1,875","3,062","$186,424 "
+Regional West Medical Center,Scottsbluff,158,"5,295","21,834","$540,352 "
+The Nebraska Medical Center,Omaha,558,"29,102","167,631","$3,390,545 "

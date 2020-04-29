@@ -1,0 +1,10 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+"Bayhealth Hospital, Kent Campus",Dover,281,"15,070","74,109","$1,344,293 "
+"Bayhealth Hospital, Sussex Campus",Milford,156,"4,689","19,112","$506,751 "
+Beebe Healthcare,Lewes,195,"10,655","46,381","$1,214,983 "
+Christiana Hospital,Newark,"1,166","51,262","288,636","$3,985,367 "
+Nanticoke Memorial Hospital,Seaford,94,"6,414","20,103","$351,153 "
+Saint Francis Healthcare,Wilmington,180,"5,815","22,299","$524,595 "
+Wilmington Hospital,Wilmington,0,0,0,$0 
+Wilmington VA Medical Center,Wilmington,0,0,0,$0 

@@ -1,0 +1,64 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Providence Holy Family Hospital,Spokane,184,"7,955","37,378","$616,794 "
+Astria Toppenish Hospital,Toppenish,25,"1,125","3,333","$104,567 "
+Capital Medical Center,Olympia,107,"4,898","17,040","$639,585 "
+Cascade Valley Hospital,Arlington,48,"1,431","5,779","$165,939 "
+Central Washington Hospital,Wenatchee,198,"11,387","46,253","$877,768 "
+CHI Franciscan Health - St. Francis Hospital,Federal Way,124,"9,068","34,305","$1,321,116 "
+EvergreenHealth Kirkland,Kirkland,318,"19,337","68,087","$1,865,938 "
+EvergreenHealth Monroe,Monroe,27,"1,095","3,862","$136,452 "
+Grays Harbor Community Hospital,Aberdeen,49,"3,368","14,796","$358,551 "
+Harborview Medical Center,Seattle,413,"14,474","111,466","$2,529,967 "
+Harrison Medical Center - Bremerton,Bremerton,298,"21,249","63,885","$2,430,085 "
+Harrison Medical Center - Silverdale,Silverdale,0,0,0,$0 
+Highline Medical Center,Burien,129,"9,118","28,583","$955,776 "
+Island Hospital,Anacortes,43,"2,602","8,162","$230,663 "
+Jonathon M. Wainwright Memorial VA Medical Center,Walla Walla,0,0,0,$0 
+Kadlec Regional Medical Center,Richland,270,"16,318","74,029","$1,909,301 "
+Legacy Salmon Creek Hospital,Vancouver,166,"15,519","56,845","$1,101,531 "
+Madigan Army Medical Center,Tacoma,0,0,0,$0 
+Multicare Allenmore Hospital,Tacoma,0,0,0,$0 
+Multicare Auburn Medical Center,Auburn,131,"6,199","27,853","$811,035 "
+MultiCare Covington Medical Center,Covington,58,"1,252","3,067","$304,815 "
+MultiCare Deaconess Hospital,Spokane,267,"9,708","55,792","$1,484,983 "
+MultiCare Good Samaritan Hospital,Puyallup,321,"16,892","85,226","$1,957,077 "
+Multicare Tacoma General Hospital,Tacoma,380,"17,469","107,607","$3,646,615 "
+MultiCare Valley Hospital,Spokane Valley,123,"5,635","22,252","$699,871 "
+Naval Hospital Bremerton,Bremerton,0,0,0,$0 
+Naval Hospital Oak Harbor,Oak Harbor,0,0,0,$0 
+Olympic Medical Center,Port Angeles,78,"4,454","15,331","$403,824 "
+Overlake Medical Center,Bellevue,300,"20,621","69,579","$1,563,834 "
+PeaceHealth Saint John Medical Center,Longview,166,"8,542","32,572","$881,198 "
+PeaceHealth Saint Joseph Medical Center,Bellingham,241,"16,390","64,921","$1,517,452 "
+PeaceHealth Southwest Medical Center,Vancouver,450,"19,767","88,093","$1,975,066 "
+Providence Centralia Hospital,Centralia,116,"4,557","18,924","$740,418 "
+Providence Pavilion for Women and Children,Everett,0,0,0,$0 
+Providence Regional Medical Center Everett Colby Campus,Everett,514,"29,386","149,397","$2,348,409 "
+Providence Regional Medical Center Everett Pacific Campus,Everett,0,0,0,$0 
+Providence Sacred Heart Medical Center and Children's Hospital,Spokane,632,"28,060","153,076","$2,513,250 "
+Providence Saint Mary Medical Center,Walla Walla,128,"5,751","22,150","$601,682 "
+Providence Saint Peter Hospital,Olympia,322,"19,056","98,823","$2,045,470 "
+Saint Anthony Hospital,Gig Harbor,112,"5,223","25,284","$824,059 "
+Saint Joseph Medical Center,Tacoma,374,"24,310","116,023","$3,010,628 "
+Samaritan Hospital,Moses Lake,48,"3,163","10,545","$240,640 "
+Schick Shadel Hospital,Seattle,63,921,"9,378","$10,877 "
+Seattle Cancer Care Alliance,Seattle,20,560,"6,703","$1,298,539 "
+Skagit Valley Hospital,Mount Vernon,137,"8,110","36,947","$1,208,604 "
+Spokane VA Medical Center,Spokane,0,0,0,$0 
+St. Clare Hospital,Lakewood,106,"5,282","32,120","$912,628 "
+Swedish Ballard Campus,Seattle,0,0,0,$0 
+Swedish Cherry Hill Campus,Seattle,211,"8,959","48,244","$1,763,411 "
+Swedish Edmonds Campus,Edmonds,178,"10,467","49,163","$889,789 "
+Swedish First Hill Campus,Seattle,668,"36,115","175,093","$4,513,786 "
+Swedish Issaquah Campus,Issaquah,126,"6,688","21,934","$668,757 "
+Trios Southridge Hospital,Kennewick,0,0,0,$0 
+Trios Women's and Children's Hospital,Kennewick,111,"6,735","20,309","$448,892 "
+University of Washington Medical Center-Montlake,Seattle,442,"19,503","124,090","$2,883,288 "
+University of Washington Medical Center-Northwest,Seattle,206,"10,515","41,077","$1,145,665 "
+VA Puget Sound Health Care System - Seattle Division,Seattle,0,0,0,$0 
+Valley Medical Center,Renton,311,"16,709","78,823","$2,155,891 "
+Virginia Mason Hospital and Seattle Medical Center,Seattle,246,"12,272","66,969","$2,393,153 "
+Virginia Mason Memorial,Yakima,226,"14,325","44,961","$1,287,277 "
+Washington State Penitentiary Hospital,Walla Walla,0,0,0,$0 
+Wenatchee Valley Hospital and Clinics,Wenatchee,20,459,939,"$639,452 "

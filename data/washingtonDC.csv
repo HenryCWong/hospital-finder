@@ -1,0 +1,9 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Howard University Hospital,Washington,200,"7,749","46,842","$747,022 "
+MedStar Georgetown University Hospital,Washington,393,"15,751","122,993","$3,001,343 "
+Medstar Washington Hospital Center,Washington,747,"30,954","220,459","$4,609,106 "
+Sibley Memorial Hospital,Washington,255,"11,192","52,250","$1,011,038 "
+The George Washington University Hospital,Washington,365,"22,598","114,550","$2,908,871 "
+United Medical Center,Washington,196,"5,084","30,326","$324,956 "
+Washington DC VA Medical Center,Washington,0,0,0,$0 

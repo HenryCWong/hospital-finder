@@ -1,0 +1,418 @@
+[
+  {
+    "hospitalName": "Northwest Health Physicians' Specialty Hospital",
+    "city": "Fayetteville",
+    "staffedBeds": 20,
+    "totalDischarges": "1,319",
+    "patientDays": "2,088",
+    "grossPatientRevenue": "$172,182"
+  },
+  {
+    "hospitalName": "Unity Health - Harris Medical Center",
+    "city": "Newport",
+    "staffedBeds": 121,
+    "totalDischarges": "1,589",
+    "patientDays": "4,078",
+    "grossPatientRevenue": "$57,855"
+  },
+  {
+    "hospitalName": "Arkansas Continued Care Hospital of Jonesboro",
+    "city": "Jonesboro",
+    "staffedBeds": 44,
+    "totalDischarges": 73,
+    "patientDays": "2,042",
+    "grossPatientRevenue": "$14,613"
+  },
+  {
+    "hospitalName": "Arkansas Heart Hospital",
+    "city": "Little Rock",
+    "staffedBeds": 112,
+    "totalDischarges": "6,194",
+    "patientDays": "23,232",
+    "grossPatientRevenue": "$660,178"
+  },
+  {
+    "hospitalName": "Arkansas Methodist Medical Center",
+    "city": "Paragould",
+    "staffedBeds": 129,
+    "totalDischarges": "3,693",
+    "patientDays": "12,305",
+    "grossPatientRevenue": "$171,739"
+  },
+  {
+    "hospitalName": "Arkansas Surgical Hospital",
+    "city": "North Little Rock",
+    "staffedBeds": 49,
+    "totalDischarges": "3,497",
+    "patientDays": "6,925",
+    "grossPatientRevenue": "$219,282"
+  },
+  {
+    "hospitalName": "Baptist Health - Little Rock",
+    "city": "Little Rock",
+    "staffedBeds": 734,
+    "totalDischarges": "28,081",
+    "patientDays": "155,026",
+    "grossPatientRevenue": "$2,054,543"
+  },
+  {
+    "hospitalName": "Baptist Health - North Little Rock",
+    "city": "North Little Rock",
+    "staffedBeds": 205,
+    "totalDischarges": "10,202",
+    "patientDays": "41,757",
+    "grossPatientRevenue": "$798,116"
+  },
+  {
+    "hospitalName": "Baptist Health - Stuttgart",
+    "city": "Stuttgart",
+    "staffedBeds": 49,
+    "totalDischarges": 981,
+    "patientDays": "3,326",
+    "grossPatientRevenue": "$67,528"
+  },
+  {
+    "hospitalName": "Baptist Health Medical Center Conway",
+    "city": "Conway",
+    "staffedBeds": 110,
+    "totalDischarges": "3,029",
+    "patientDays": "9,890",
+    "grossPatientRevenue": "$257,866"
+  },
+  {
+    "hospitalName": "Baptist Health Medical Center-Hot Spring County",
+    "city": "Malvern",
+    "staffedBeds": 64,
+    "totalDischarges": "2,248",
+    "patientDays": "9,215",
+    "grossPatientRevenue": "$64,656"
+  },
+  {
+    "hospitalName": "Baptist Health-Fort Smith",
+    "city": "Fort Smith",
+    "staffedBeds": 343,
+    "totalDischarges": "12,427",
+    "patientDays": "58,267",
+    "grossPatientRevenue": "$1,469,283"
+  },
+  {
+    "hospitalName": "Baptist Health-Van Buren",
+    "city": "Van Buren",
+    "staffedBeds": 39,
+    "totalDischarges": "1,005",
+    "patientDays": "2,877",
+    "grossPatientRevenue": "$163,400"
+  },
+  {
+    "hospitalName": "Baptist Memorial Hospital-Crittenden",
+    "city": "West Memphis",
+    "staffedBeds": 0,
+    "totalDischarges": 0,
+    "patientDays": 0,
+    "grossPatientRevenue": "$0"
+  },
+  {
+    "hospitalName": "Baxter Regional Medical Center",
+    "city": "Mountain Home",
+    "staffedBeds": 212,
+    "totalDischarges": "9,167",
+    "patientDays": "32,384",
+    "grossPatientRevenue": "$669,694"
+  },
+  {
+    "hospitalName": "Chambers Memorial Hospital",
+    "city": "Danville",
+    "staffedBeds": 42,
+    "totalDischarges": "1,318",
+    "patientDays": "4,142",
+    "grossPatientRevenue": "$48,089"
+  },
+  {
+    "hospitalName": "CHI St. Vincent Hot Springs",
+    "city": "Hot Springs",
+    "staffedBeds": 229,
+    "totalDischarges": "11,605",
+    "patientDays": "51,792",
+    "grossPatientRevenue": "$952,631"
+  },
+  {
+    "hospitalName": "CHI St. Vincent Infirmary",
+    "city": "Little Rock",
+    "staffedBeds": 393,
+    "totalDischarges": "17,643",
+    "patientDays": "94,504",
+    "grossPatientRevenue": "$1,769,767"
+  },
+  {
+    "hospitalName": "CHI St. Vincent North",
+    "city": "Sherwood",
+    "staffedBeds": 59,
+    "totalDischarges": "2,235",
+    "patientDays": "8,851",
+    "grossPatientRevenue": "$237,414"
+  },
+  {
+    "hospitalName": "Conway Regional Medical Center",
+    "city": "Conway",
+    "staffedBeds": 150,
+    "totalDischarges": "7,607",
+    "patientDays": "31,383",
+    "grossPatientRevenue": "$570,069"
+  },
+  {
+    "hospitalName": "Drew Memorial Hospital",
+    "city": "Monticello",
+    "staffedBeds": 49,
+    "totalDischarges": "2,249",
+    "patientDays": "7,095",
+    "grossPatientRevenue": "$84,649"
+  },
+  {
+    "hospitalName": "Five Rivers Medical Center",
+    "city": "Pocahontas",
+    "staffedBeds": 44,
+    "totalDischarges": "1,012",
+    "patientDays": "1,550",
+    "grossPatientRevenue": "$44,239"
+  },
+  {
+    "hospitalName": "Forrest City Medical Center",
+    "city": "Forrest City",
+    "staffedBeds": 70,
+    "totalDischarges": "2,017",
+    "patientDays": "6,640",
+    "grossPatientRevenue": "$187,827"
+  },
+  {
+    "hospitalName": "Great River Medical Center",
+    "city": "Blytheville",
+    "staffedBeds": 33,
+    "totalDischarges": "1,423",
+    "patientDays": "4,442",
+    "grossPatientRevenue": "$72,252"
+  },
+  {
+    "hospitalName": "Helena Regional Medical Center",
+    "city": "Helena",
+    "staffedBeds": 127,
+    "totalDischarges": "1,540",
+    "patientDays": "4,791",
+    "grossPatientRevenue": "$138,975"
+  },
+  {
+    "hospitalName": "Jefferson Regional Medical Center",
+    "city": "Pine Bluff",
+    "staffedBeds": 316,
+    "totalDischarges": "8,873",
+    "patientDays": "44,226",
+    "grossPatientRevenue": "$881,501"
+  },
+  {
+    "hospitalName": "John L. McClellan Memorial Veterans Hospital",
+    "city": "Little Rock",
+    "staffedBeds": 0,
+    "totalDischarges": 0,
+    "patientDays": 0,
+    "grossPatientRevenue": "$0"
+  },
+  {
+    "hospitalName": "Johnson Regional Medical Center",
+    "city": "Clarksville",
+    "staffedBeds": 89,
+    "totalDischarges": "1,873",
+    "patientDays": "4,933",
+    "grossPatientRevenue": "$82,018"
+  },
+  {
+    "hospitalName": "Levi Hospital",
+    "city": "Hot Springs National Park",
+    "staffedBeds": 53,
+    "totalDischarges": 1,
+    "patientDays": 1,
+    "grossPatientRevenue": "$8,880"
+  },
+  {
+    "hospitalName": "Magnolia Regional Medical Center",
+    "city": "Magnolia",
+    "staffedBeds": 30,
+    "totalDischarges": "1,285",
+    "patientDays": "4,054",
+    "grossPatientRevenue": "$47,745"
+  },
+  {
+    "hospitalName": "Medical Center of South Arkansas",
+    "city": "El Dorado",
+    "staffedBeds": 131,
+    "totalDischarges": "3,366",
+    "patientDays": "12,823",
+    "grossPatientRevenue": "$445,966"
+  },
+  {
+    "hospitalName": "Mena Regional Health System",
+    "city": "Mena",
+    "staffedBeds": 65,
+    "totalDischarges": "1,174",
+    "patientDays": "4,712",
+    "grossPatientRevenue": "$75,542"
+  },
+  {
+    "hospitalName": "Mercy Hospital Fort Smith",
+    "city": "Fort Smith",
+    "staffedBeds": 385,
+    "totalDischarges": "15,656",
+    "patientDays": "69,507",
+    "grossPatientRevenue": "$1,087,456"
+  },
+  {
+    "hospitalName": "Mercy Hospital Northwest Arkansas",
+    "city": "Rogers",
+    "staffedBeds": 206,
+    "totalDischarges": "12,636",
+    "patientDays": "43,112",
+    "grossPatientRevenue": "$1,102,729"
+  },
+  {
+    "hospitalName": "Mercy Orthopedic Hospital Fort Smith",
+    "city": "Fort Smith",
+    "staffedBeds": 0,
+    "totalDischarges": 0,
+    "patientDays": 0,
+    "grossPatientRevenue": "$0"
+  },
+  {
+    "hospitalName": "National Park Medical Center",
+    "city": "Hot Springs",
+    "staffedBeds": 163,
+    "totalDischarges": "5,760",
+    "patientDays": "29,551",
+    "grossPatientRevenue": "$1,011,354"
+  },
+  {
+    "hospitalName": "NEA Baptist Memorial Hospital",
+    "city": "Jonesboro",
+    "staffedBeds": 204,
+    "totalDischarges": "10,705",
+    "patientDays": "47,204",
+    "grossPatientRevenue": "$877,753"
+  },
+  {
+    "hospitalName": "North Arkansas Regional Medical Center",
+    "city": "Harrison",
+    "staffedBeds": 134,
+    "totalDischarges": "3,091",
+    "patientDays": "9,382",
+    "grossPatientRevenue": "$264,338"
+  },
+  {
+    "hospitalName": "Northwest Medical Center - Bentonville",
+    "city": "Bentonville",
+    "staffedBeds": 121,
+    "totalDischarges": "5,192",
+    "patientDays": "22,923",
+    "grossPatientRevenue": "$238,959"
+  },
+  {
+    "hospitalName": "Northwest Medical Center - Springdale",
+    "city": "Springdale",
+    "staffedBeds": 300,
+    "totalDischarges": "11,582",
+    "patientDays": "57,735",
+    "grossPatientRevenue": "$1,987,301"
+  },
+  {
+    "hospitalName": "Ouachita County Medical Center",
+    "city": "Camden",
+    "staffedBeds": 82,
+    "totalDischarges": "1,622",
+    "patientDays": "5,154",
+    "grossPatientRevenue": "$101,360"
+  },
+  {
+    "hospitalName": "Saint Mary's Regional Health System",
+    "city": "Russellville",
+    "staffedBeds": 157,
+    "totalDischarges": "5,356",
+    "patientDays": "23,319",
+    "grossPatientRevenue": "$726,338"
+  },
+  {
+    "hospitalName": "Saline Memorial Hospital",
+    "city": "Benton",
+    "staffedBeds": 161,
+    "totalDischarges": "5,394",
+    "patientDays": "18,862",
+    "grossPatientRevenue": "$371,006"
+  },
+  {
+    "hospitalName": "Siloam Springs Regional Hospital",
+    "city": "Siloam Springs",
+    "staffedBeds": 44,
+    "totalDischarges": "1,733",
+    "patientDays": "4,830",
+    "grossPatientRevenue": "$188,578"
+  },
+  {
+    "hospitalName": "St. Bernards Medical Center",
+    "city": "Jonesboro",
+    "staffedBeds": 353,
+    "totalDischarges": "16,929",
+    "patientDays": "81,760",
+    "grossPatientRevenue": "$972,684"
+  },
+  {
+    "hospitalName": "Unity Health White County Medical Center",
+    "city": "Searcy",
+    "staffedBeds": 272,
+    "totalDischarges": "11,605",
+    "patientDays": "50,891",
+    "grossPatientRevenue": "$746,788"
+  },
+  {
+    "hospitalName": "University of Arkansas for Medical Sciences (UAMS) Medical Center",
+    "city": "Little Rock",
+    "staffedBeds": 505,
+    "totalDischarges": "28,215",
+    "patientDays": "152,000",
+    "grossPatientRevenue": "$2,443,548"
+  },
+  {
+    "hospitalName": "Veterans Health Care System of the Ozarks",
+    "city": "Fayetteville",
+    "staffedBeds": 0,
+    "totalDischarges": 0,
+    "patientDays": 0,
+    "grossPatientRevenue": "$0"
+  },
+  {
+    "hospitalName": "Wadley Regional Medical Center at Hope",
+    "city": "Hope",
+    "staffedBeds": 79,
+    "totalDischarges": 824,
+    "patientDays": "3,116",
+    "grossPatientRevenue": "$69,513"
+  },
+  {
+    "hospitalName": "Washington Regional Medical Center",
+    "city": "Fayetteville",
+    "staffedBeds": 320,
+    "totalDischarges": "16,340",
+    "patientDays": "70,156",
+    "grossPatientRevenue": "$1,463,611"
+  },
+  {
+    "hospitalName": "White River Medical Center",
+    "city": "Batesville",
+    "staffedBeds": 221,
+    "totalDischarges": "7,611",
+    "patientDays": "30,581",
+    "grossPatientRevenue": "$578,523"
+  },
+  {
+    "hospitalName": "Willow Creek Women's Hospital",
+    "city": "Johnson",
+    "staffedBeds": 30,
+    "totalDischarges": "3,357",
+    "patientDays": "11,571",
+    "grossPatientRevenue": "$38,243"
+  }
+]

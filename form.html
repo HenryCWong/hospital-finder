@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    <link rel="icon" href="data:,">
+    <link href="/favicon.ico" type="image/x-icon" rel="icon" />
+    <title> Hospital Information </title>
+    <meta charset="utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+</head>
+
+<body>
+
+    <header id="main-header">
+        <div class="container">
+            <div class="row">
+                <div id="logo">
+                    <img src="images/HospitalHelper.png" alt="homelessHelper" width="150">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav id="navbar">
+        <div class="container">
+        </div>
+    </nav>
+
+
+    <br>
+    <br>
+    <div class="container">
+        <div class="row">
+            <h3>Please fill all required fields before submitting.
+                Any required fileds left unfilled will highlght red upon submision.
+            </h3>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <!--<div class="col-md-6">-->
+            <form action="insert_hospital" method="post">
+                <h1> Hospital Information</h1>
+
+                <input class="box" type="text" name="hospitalName" id="hospitalName" placeholder="Hospital Name"
+                    required /><br><br>
+
+                <input class="box" type="text" name="city" id="city" placeholder="City" required /><br><br>
+
+                <input class="box" type="text" name="state" id="state" placeholder="State" required /><br><br>
+
+                <input class="box" type="number" step="0.00000001" name="lat" id="lat" placeholder="Latitude"
+                    required /><br><br>
+
+                <input class="box" type="number" step="0.00000001" name="long" id="long" placeholder="Longitude"
+                    required /><br><br>
+
+                <input class="box" type="text" name="address" id="address" placeholder="Address" required /><br><br>
+
+                <input class="box" type="text" name="phoneNumber" id="phoneNUmber" placeholder="(000) 000-0000"
+                    required /><br><br>
+
+                <input class="box" type="number" name="staffedBeds" id="staffedBeds"
+                    placeholder="Number of staffed Beds" required /><br><br>
+
+                <input class="box" type="url" name="website" id="website" placeholder="Website" /><br><br>
+
+                <input class="box" type="text" name="hoursInText" id="hoursInText" placeholder="Hours" /><br><br>
+
+                <input class="box" type="text" name="mondayHours" id="mondayHOurs" placeholder="Monday Hours" /><br><br>
+
+                <input class="box" type="text" name="tuesdayHours" id="tuesdayHours"
+                    placeholder="Tuesday Hours" /><br><br>
+
+                <input class="box" type="text" name="wednesdayHours" id="wednesdayHours"
+                    placeholder="Wednesday Hours" /><br><br>
+
+                <input class="box" type="text" name="thursdayHours" id="thursdayHours"
+                    placeholder="Thursday Hours" /><br><br>
+
+                <input class="box" type="text" name="fridayHours" id="fridayHours" placeholder="Friday Hours" /><br><br>
+
+                <input class="box" type="text" name="saturdayHours" id="saturdayHours"
+                    placeholder="Saturday Hours" /><br><br>
+
+                <input class="box" type="text" name="sundayHours" id="sundayHours" placeholder="Sunday Hours" /><br><br>
+
+                <input class="box" type="number" name="totalDischarges" id="totalDischarges"
+                    placeholder="Total Discharges" /><br><br>
+
+                <input class="box" type="number" name="patientDays" id="patientDays"
+                    placeholder="Patient Days" /><br><br>
+
+                <input class="box" type="number" name="grossPateientRevenue" id="grossPateientRevenue"
+                    placeholder="Gross Patient Revenue" /><br><br>
+
+                <button type="submit" id="submitDetails">Submit</button><br><br>
+
+            </form>
+        </div>
+
+        <!--<div class="col-md-6">-->
+    </div>
+    </div>
+    </div>
+
+
+    <footer id="main-footer">
+        <div class="row">
+            <p class="container"> Copyright &copy; 2020 Hospital Helper</p>
+        </div>
+    </footer>
+
+</body>
+
+
+</html>

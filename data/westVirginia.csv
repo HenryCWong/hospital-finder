@@ -1,0 +1,38 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Acuity Specialty Hospital of Morgantown,Morgantown,0,0,0,$0 
+Beckley ARH Hospital,Beckley,173,"4,012","21,199","$353,650 "
+Beckley VA Medical Center,Beckley,0,0,0,$0 
+Berkeley Medical Center,Martinsburg,169,"7,809","35,217","$504,166 "
+Bluefield Regional Medical Center,Bluefield,57,"2,962","10,616","$221,008 "
+Cabell Huntington Hospital,Huntington,330,"15,516","88,023","$1,865,821 "
+Camden Clark Medical Center,Parkersburg,249,"11,491","50,009","$776,256 "
+Charleston Area Medical Center Women and Children's Hospital,Charleston,0,0,0,$0 
+Charleston Area Medical Center General Hospital,Charleston,864,"40,662","205,059","$3,615,699 "
+Charleston Area Medical Center Memorial Hospital,Charleston,0,0,0,$0 
+Charleston Area Medical Center Teays Valley Hospital,Hurricane,70,"2,228","11,696","$160,164 "
+Charleston Surgical Hospital,Charleston,8,311,546,"$59,078 "
+Davis Medical Center,Elkins,90,"2,705","9,546","$206,155 "
+Greenbrier Valley Medical Center,Ronceverte,92,"2,878","11,469","$271,225 "
+Hershel Woody Williams VA Medical Center,Huntington,0,0,0,$0 
+Hoops Family Children's Hospital,Huntington,0,0,0,$0 
+Logan Regional Medical Center,Logan,140,"4,797","19,650","$396,668 "
+Louis A. Johnson VA Medical Center,Clarksburg,0,0,0,$0 
+Martinsburg VA Medical Center,Martinsburg,0,0,0,$0 
+Mon Health Medical Center,Morgantown,189,"8,515","31,789","$746,083 "
+Pleasant Valley Hospital,Point Pleasant,194,"1,746","5,847","$183,151 "
+Princeton Community Hospital,Princeton,153,"5,947","23,645","$464,273 "
+Raleigh General Hospital,Beckley,300,"11,220","52,210","$769,526 "
+Reynolds Memorial Hospital,Glen Dale,79,"1,745","6,329","$124,362 "
+Ruby Memorial Hospital,Morgantown,652,"29,374","191,729","$2,923,753 "
+Saint Francis Hospital,Charleston,44,476,"4,013","$204,829 "
+Saint Mary's Medical Center,Huntington,379,"15,978","88,318","$1,236,744 "
+Stonewall Jackson Memorial Hospital,Weston,70,"1,510","5,562","$113,524 "
+Summersville Regional Medical Center,Summersville,101,"1,152","4,125","$112,445 "
+Thomas Memorial Hospital,South Charleston,206,"7,050","36,528","$585,443 "
+United Hospital Center,Bridgeport,264,"12,092","56,334","$951,406 "
+Weirton Medical Center,Weirton,167,"5,132","20,757","$577,794 "
+Welch Community Hospital,Welch,108,593,"2,270","$38,800 "
+Wetzel County Hospital,New Martinsville,48,325,"1,095","$59,746 "
+Wheeling Hospital,Wheeling,348,"10,612","50,626","$970,042 "
+Williamson Memorial Hospital,Williamson,27,479,"1,502","$59,117 "

@@ -1,0 +1,30 @@
+{
+  "name": "hospitalfinder",
+  "version": "1.0.0",
+  "description": "Hi",
+  "main": "app.js",
+  "engines": {
+    "node": "12.6.x"
+  },
+  "dependencies": {
+    "express": "4.17.x",
+    "mongoose": "5.9.x"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryCWong/hospitalFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryCWong/hospitalFinder/issues"
+  },
+  "homepage": "https://github.com/HenryCWong/hospitalFinder#readme"
+}

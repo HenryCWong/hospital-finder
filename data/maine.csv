@@ -1,0 +1,22 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Cary Medical Center,Caribou,49,"1,700","7,359","$123,116 "
+Central Maine Medical Center,Lewiston,234,"9,094","42,185","$926,532 "
+Franklin Memorial Hospital,Farmington,48,"1,825","6,748","$182,209 "
+Maine Medical Center,Portland,596,"29,103","154,279","$2,871,773 "
+Maine VA Medical Center,Augusta,0,0,0,$0 
+MaineGeneral Health,Augusta,192,"11,033","53,676","$1,118,915 "
+Mid Coast Hospital,Brunswick,92,"4,884","23,994","$438,782 "
+Northern Light AR Gould Hospital,Presque Isle,118,"1,979","8,758","$318,136 "
+Northern Light Eastern Maine Medical Center,Bangor,349,"21,045","103,274","$1,903,578 "
+Northern Light Inland Hospital,Waterville,33,"1,305","4,940","$111,538 "
+Northern Light Maine Coast Hospital,Ellsworth,48,"1,884","7,151","$180,487 "
+Northern Light Mercy Hospital,Portland,103,"4,566","16,865","$542,283 "
+Northern Maine Medical Center,Fort Kent,94,"1,060","4,273","$86,829 "
+Pen Bay Medical Center,Rockport,165,"3,388","16,098","$341,140 "
+Saint Joseph Hospital,Bangor,99,"3,781","16,134","$344,542 "
+Saint Mary's Regional Medical Center,Lewiston,381,"5,315","21,706","$527,768 "
+SMHC Medical Center - Biddeford,Biddeford,226,"8,002","24,942","$699,464 "
+The Barbara Bush Children's Hospital at Maine Medical Center,Portland,0,0,0,$0 
+York Hospital,York,66,"3,255","12,922","$398,032 "
+,,,,,

@@ -1,0 +1,110 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+AdventHealth Hendersonville,Hendersonville,98,"3,375","14,009","$572,223 "
+Alamance Regional Medical Center,Burlington,212,"9,944","36,522","$746,372 "
+Atrium Health Anson,Wadesboro,15,341,750,"$89,101 "
+Atrium Health Cabarrus,Concord,457,"25,750","110,544","$2,381,292 "
+Atrium Health Cleveland,Shelby,241,"8,653","35,584","$933,967 "
+Atrium Health Kings Mountain,Kings Mountain,62,"1,717","7,226","$220,434 "
+Atrium Health Lincoln,Lincolnton,101,"4,571","19,725","$571,654 "
+Atrium Health Mercy,Charlotte,0,0,0,$0 
+Atrium Health Pineville,Charlotte,250,"16,914","71,440","$1,700,785 "
+Atrium Health Stanly,Albemarle,109,"3,313","12,279","$404,346 "
+Atrium Health Union,Monroe,252,"8,954","35,302","$990,848 "
+Atrium Health University City,Charlotte,100,"6,968","29,611","$946,276 "
+Betsy Johnson Regional Hospital,Dunn,151,"5,586","18,042","$386,123 "
+Brenner Children's Hospital,Winston-Salem,0,0,0,$0 
+Caldwell Memorial Hospital,Lenoir,110,"4,338","20,350","$381,562 "
+Cape Fear Valley Hoke Hospital,Raeford,41,"1,345","2,991","$140,579 "
+Cape Fear Valley Medical Center,Fayetteville,656,"34,079","178,835","$2,694,112 "
+CarolinaEast Medical Center,New Bern,306,"13,993","64,783","$1,180,600 "
+Carolinas HealthCare System - Blue Ridge,Morgantown,156,"6,994","28,897","$891,733 "
+Carolinas Medical Center,Charlotte,"1,257","62,650","327,442","$8,254,196 "
+CaroMont Regional Medical Center,Gastonia,383,"23,028","107,417","$1,906,321 "
+Carteret Healthcare,Morehead City,99,"6,061","27,207","$439,328 "
+Catawba Valley Medical Center,Hickory,258,"11,849","38,176","$1,061,978 "
+Central Carolina Hospital,Sanford,127,"4,879","15,736","$424,105 "
+Central Harnett Hospital,Lillington,0,0,0,$0 
+Central Prison Hospital,Raleigh,0,0,0,$0 
+Charles George VA Medical Center - Asheville NC,Asheville,0,0,0,$0 
+Cherokee Indian Hospital,Cherokee,20,821,"1,787",$0 
+Columbus Regional Healthcare System,Whiteville,154,"4,279","17,553","$280,648 "
+Cone Health Annie Penn Hospital,Reidsville,152,"3,661","15,686","$86,584 "
+Cone Health Wesley Long Hospital,Greensboro,0,0,0,$0 
+Cone Health Women's Hospital,Greensboro,0,0,0,$0 
+Davis Regional Medical Center,Statesville,140,"3,643","16,789","$359,420 "
+Duke Raleigh Hospital,Raleigh,175,"9,605","48,703","$1,936,438 "
+Duke Regional Hospital,Durham,354,"15,952","73,688","$1,370,950 "
+Duke University Hospital,Durham,977,"43,055","309,836","$8,226,868 "
+Durham VA Medical Center,Durham,0,0,0,$0 
+Fayetteville VA Medical Center,Fayetteville,0,0,0,$0 
+FirstHealth Moore Regional Hospital,Pinehurst,449,"23,538","103,104","$2,095,872 "
+FirstHealth Moore Regional Hospital-Hoke Campus,Raeford,0,0,0,$0 
+FirstHealth Moore Regional Hospital-Richmond,Rockingham,141,"3,427","12,150","$116,192 "
+Frye Regional Medical Center,Hickory,355,"7,740","31,507","$1,286,564 "
+Granville Medical Center,Oxford,122,"2,337","7,390","$156,451 "
+Harris Regional Hospital,Sylva,82,"3,721","13,909","$373,335 "
+Haywood Regional Medical Center,Clyde,138,"4,614","17,613","$545,659 "
+Hugh Chatham Memorial Hospital,Elkin,81,"3,755","12,627","$316,711 "
+Iredell Memorial Hospital,Statesville,203,"7,363","33,473","$568,303 "
+Johnston Health Clayton,Clayton,0,0,0,$0 
+Johnston Health Smithfield,Smithfield,199,"11,459","37,585","$1,001,509 "
+Lake Norman Regional Medical Center,Mooresville,123,"5,413","16,090","$708,480 "
+Lenoir UNC Health Care,Kinston,"1,103","5,520","25,447","$285,727 "
+Maria Parham Medical Center,Henderson,102,"4,446","18,019","$465,834 "
+Martin General Hospital,Williamston,43,"1,140","4,326","$171,959 "
+Maynard Children's Hospital,Greenville,0,0,0,$0 
+Mission Hospital - Memorial Campus,Asheville,727,"33,864","197,974","$4,000,479 "
+Mission Hospital McDowell,Marion,49,"2,014","8,231","$235,691 "
+Mission Saint Joseph Campus,Asheville,0,0,0,$0 
+Nash General Hospital,Rocky Mount,345,"11,870","53,792","$909,379 "
+Naval Hospital Camp Lejeune,Camp Lejeune,0,0,0,$0 
+New Hanover Regional Medical Center,Wilmington,738,"37,232","188,101","$3,491,309 "
+New Hanover Regional Medical Center - Orthopedic Hospital,Wilmington,94,"3,813","15,775","$70,996 "
+North Carolina Specialty Hospital,Durham,18,"1,621","3,112","$119,210 "
+Northern Hospital of Surry County,Mount Airy,133,"4,098","13,174","$233,124 "
+Novant Health Brunswick Medical Center,Bolivia,61,"4,202","15,379","$386,872 "
+Novant Health Charlotte Orthopaedic Hospital,Charlotte,80,"3,449","8,860","$299,094 "
+Novant Health Forsyth Medical Center,Winston-Salem,901,"42,420","240,460","$3,670,104 "
+Novant Health Huntersville Medical Center,Huntersville,93,"9,010","27,699","$640,072 "
+Novant Health Kernersville Medical Center,Kernersville,0,0,0,$0 
+Novant Health Matthews Medical Center,Matthews,123,"10,279","41,791","$793,002 "
+Novant Health Medical Park Hospital,Winston-Salem,22,895,"2,718","$176,154 "
+Novant Health Mint Hill Medical Center,Mint Hill,28,"1,416","4,740","$131,317 "
+Novant Health Presbyterian Medical Center,Charlotte,602,"27,191","141,500","$3,032,915 "
+Novant Health Rowan Medical Center,Salisbury,199,"9,946","44,771","$767,857 "
+Novant Health Thomasville Medical Center,Thomasville,119,"3,767","13,988","$296,992 "
+Onslow Memorial Hospital,Jacksonville,162,"7,877","32,651","$450,711 "
+Pardee Hospital,Hendersonville,160,"8,216","31,886","$704,403 "
+Person Memorial Hospital,Roxboro,98,986,"3,392","$153,820 "
+Randolph Hospital,Asheboro,145,"5,284","14,712","$310,068 "
+Rutherford Hospital,Rutherfordton,125,"3,170","11,012","$367,752 "
+Sampson Regional Medical Center,Clinton,71,"2,942","10,616","$189,387 "
+Scotland Memorial Hospital,Laurinburg,104,"6,186","20,168","$532,171 "
+Sentara Albemarle Medical Center,Elizabeth City,91,"4,818","20,294","$360,513 "
+Southeastern Regional Medical Center,Lumberton,371,"14,062","70,324","$880,541 "
+The Moses H. Cone Memorial Hospital,Greensboro,831,"45,618","194,807","$3,150,180 "
+UNC Hospitals Hillsborough Campus,Hillsborough,0,0,0,$0 
+UNC Medical Center,Chapel Hill,937,"37,342","254,763","$5,209,505 "
+UNC Rex Healthcare,Raleigh,559,"28,737","122,933","$3,092,382 "
+UNC Rockingham Health Care,Eden,229,"3,207","10,875","$168,641 "
+Vidant Beaufort Hospital,Washington,91,"2,867","12,743","$207,208 "
+Vidant Duplin Hospital,Kenansville,74,"2,446","9,104","$146,379 "
+Vidant Edgecombe Hospital,Tarboro,117,"3,219","15,162","$262,181 "
+Vidant Medical Center,Greenville,943,"37,679","227,741","$3,000,858 "
+Vidant North Hospital,Roanoke Rapids,124,"4,733","20,116","$280,288 "
+Vidant Roanoke-Chowan Hospital,Ahoskie,98,"3,246","13,832","$208,595 "
+"W. G. (Bill) Hefner VA Medical Center - Salisbury, NC",Salisbury,0,0,0,$0 
+Wake Forest Baptist Health - Wilkes Medical Center,North Wilkesboro,103,"3,609","11,808","$281,029 "
+Wake Forest Baptist Health -High Point Medical Center,High Point,304,"15,376","67,732","$1,152,800 "
+Wake Forest Baptist Health Davie Medical Center,Bermuda Run,18,"1,694","3,754","$293,039 "
+Wake Forest Baptist Health Lexington Medical Center,Lexington,80,"3,849","12,415","$388,044 "
+Wake Forest Baptist Medical Center,Winston-Salem,870,"36,712","233,152","$6,190,811 "
+WakeMed Cary Hospital,Cary,178,"11,748","49,256","$1,005,280 "
+WakeMed North Family Health and Women's Hospital,Raleigh,0,0,0,$0 
+WakeMed Raleigh Campus,Raleigh,683,"32,284","170,573","$3,614,177 "
+Watauga Medical Center,Boone,95,"4,218","14,368","$371,509 "
+Wayne UNC Health Care,Goldsboro,261,"10,306","49,863","$620,159 "
+Wilmington Treatment Center,Wilmington,92,"1,207","17,802","$42,599 "
+Wilson Medical Center,Wilson,294,"6,650","26,771","$559,909 "
+Womack Army Medical Center,Fort Bragg,0,0,0,$0 

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link rel="icon" href="data:,">
+        <meta charset="utf-8"/>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="https://js.arcgis.com/4.14/esri/themes/light/main.css">
+        <script src="https://js.arcgis.com/4.14/"></script>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hospital Helper</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <title>Hospital Helper</title>
+        <style>
+            html,
+            body,
+            #viewDiv {
+                padding: 0;
+                margin: 0;
+                height: 100%;
+                width: 100%;
+            }
+        </style>
+        <script type="text/javascript" src="js/mapCreation.js">
+        </script>
+    </head>
+
+<body>
+
+
+
+    <header id="main-header">
+        <div class="container">
+            <div id="logo">
+                <img src="images/HospitalHelper.png" alt="homelessHelper" width="150">
+            </div>
+        </div>
+    </header>
+
+
+    <nav id="navbar">
+        <div class="container">
+            <ul class="nav-buttons">
+                <a class="button" href="#contactBox">Contact</a>
+                <a class="button" href="#mapBox">Map</a>
+                <a class="button" href="#aboutBox">About</a>
+                <a class="button" href="#helpBox">Help</a>
+            </ul>
+        </div>
+    </nav>
+
+
+    <!--HELP BOX MODAL-->
+    <div id="helpBox" class="overlay">
+        <div class="popup">
+            <h2>Help</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="content">
+                <p>
+                    Click on the <strong>Map</strong> button to learn how to use the interactive map.
+
+                    Click on the <strong>About</strong> button to learn about the team behind the project.
+
+                    Click on the <strong>Contact</strong> button to learn how to get in touch with the team.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!--ABOUT BOX MODAL-->
+    <div id="aboutBox" class="overlay">
+        <div class="popup">
+            <h2>About</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="content">
+                <p>
+                    JavaScript and Map Design:
+                    Henry Wong
+
+                    Database Design and Management:
+                    Lanchau LeTran
+
+                    HTML, CSS, and UI Design:
+                    Corey Diehl
+
+                    Instructor:
+                    Mike Gosnell
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!--MAP BOX MODAL-->
+    <div id="mapBox" class="overlay">
+        <div class="popup">
+            <h2>Map</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="content">
+                <p>
+                    Click and drag the map to move it.
+
+                    Use the scroll wheel or + and - buttons to zoom in and out from the map.
+
+                    Right click to rotate the map.
+
+                    Use the search bar to look for specific locations.
+
+                    Click a pin to see more information.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!--CONTACT BOX MODAL-->
+    <div id="contactBox" class="overlay">
+        <div class="popup">
+            <h2>Contact</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="content">
+                <p>
+                    Contact the team
+
+                    cwdp7c@umsystem.edu
+
+                    hernrycwong@mst.edu
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <section id="showcase">
+        <p class="centered">
+            Welcome to Hospital Helper! Use the interactive map to search for hospitals and find out
+            information about them including their contact information and number of available beds
+        </p>
+    </section>
+
+    <div class="container">
+        <hr>
+    </div>
+
+    <div class="container">
+
+        <aside id="sidebar">
+            <h2>Bed Capacity</h2>
+
+            <div class="key-pair">
+                <img class="key-img" src="images/OrangePin.png" alt="Orange Pin" width="50px" height="50px">
+                <h4 class="key-description">Above average
+                    ( > 131  beds )</h4>
+            </div>
+
+            <div class="key-pair">
+                <img class="key-img" src="images/PurplePin.png" alt="Purple Pin" width="50px" height="50px">
+                <h4 class="key-description">Below average
+                    ( <= 131 beds )
+                </h4>
+            </div>
+
+            <div class="key-pair">
+                <img class="key-img" src="images/UnknownPin.png" alts="Unknown Pin" width="50px" height="50px">
+                <h4 class="key-description">Unknown
+                    ( data unavailable )
+                </h4>
+            </div>
+        </aside>
+
+
+        <!--NOTE! Final map goes here-->
+        <section id="main">
+            <!--<img src="images/map_placeholder.png" alt="Map Placeholder" width="600">-->
+            <div id="viewDiv">
+            </div>
+        </section>
+
+
+
+    </div>
+
+    <div class="clr"></div>
+
+    <div class="container">
+        <section id="showcase">
+            <p>
+                Is your local Hostpital not listed? You can help us expand our coverage by adding <a href="form.html">new locations to the map</a>
+            </p>
+        </section>
+    </div>
+
+
+    <footer id="main-footer">
+        <p class="container"> Copyright &copy; 2020 Hospital Helper</p>
+    </footer>
+
+
+    <!-- <div id="viewDiv"></div>  -->
+
+
+
+</body>
+
+</html>

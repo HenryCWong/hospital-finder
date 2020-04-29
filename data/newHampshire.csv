@@ -1,0 +1,16 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Catholic Medical Center,Manchester,251,"11,824","64,942","$1,309,372 "
+Cheshire Medical Center,Keene,110,"4,347","19,182","$682,961 "
+Concord Hospital,Concord,221,"13,013","55,990","$1,357,755 "
+Dartmouth-Hitchcock Medical Center,Lebanon,422,"18,966","116,086","$3,030,629 "
+Elliot Hospital,Manchester,240,"11,833","59,704","$1,155,635 "
+Exeter Hospital,Exeter,97,"5,304","22,696","$623,638 "
+Frisbie Memorial Hospital,Rochester,84,"3,057","12,733","$364,564 "
+Lakes Region General Hospital,Laconia,96,"3,777","15,163","$466,492 "
+Manchester VA Medical Center,Manchester,0,0,0,$0 
+Parkland Medical Center,Derry,86,"3,717","14,386","$577,756 "
+Portsmouth Regional Hospital,Portsmouth,173,"8,601","43,994","$1,359,089 "
+Saint Joseph Hospital,Nashua,208,"4,691","23,010","$566,381 "
+Southern New Hampshire Medical Center,Nashua,160,"9,416","36,414","$663,998 "
+Wentworth-Douglass Hospital,Dover,118,"8,229","32,795","$1,039,721 "

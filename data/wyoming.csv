@@ -1,0 +1,16 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Aspen Mountain Medical Center,Rock Springs,0,0,0,$0 
+Campbell County Memorial Hospital,Gillette,232,"2,253","8,065","$327,407 "
+Cheyenne Regional Medical Center,Cheyenne,222,"8,673","33,729","$864,106 "
+Cheyenne VA Medical Center,Cheyenne,0,0,0,$0 
+Evanston Regional Hospital,Evanston,32,699,"1,736","$86,242 "
+Ivinson Memorial Hospital,Laramie,86,"1,577","5,038","$179,229 "
+Memorial Hospital of Sweetwater County,Rock Springs,58,"2,024","5,311","$164,917 "
+SageWest Health Care at Lander,Lander,86,"1,542","4,801","$128,783 "
+SageWest Health Care at Riverton,Riverton,154,"2,389","6,998","$231,513 "
+Saint John's Medical Center,Jackson,108,"1,671","5,568","$196,675 "
+Sheridan Memorial Hospital,Sheridan,71,"2,332","7,165","$221,693 "
+Sheridan VA Medical Center,Sheridan,0,0,0,$0 
+Summit Medical Center,Casper,0,0,0,$0 
+Wyoming Medical Center,Casper,212,"9,119","37,631","$638,314 "

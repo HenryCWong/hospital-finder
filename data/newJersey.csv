@@ -1,0 +1,80 @@
+Hospital Name,City,Staffed,Total,Patient,Gross Patient
+,,Beds,Discharges,Days,Revenue ($000)
+Palisades Medical Center,North Bergen,202,"9,575","41,821","$955,944 "
+AtlantiCare Regional Medical Center - Mainland Campus,Pomona,0,0,0,$0 
+AtlantiCare Regional Medical Center -Atlantic City Campus,Atlantic City,540,"30,244","135,601","$3,672,844 "
+Bayonne Medical Center,Bayonne,163,"5,083","23,070","$1,603,840 "
+Bayshore Medical Center,Holmdel,169,"7,212","37,434","$853,103 "
+Bergen New Bridge Medical Center,Paramus,"1,020","7,067","26,781","$565,859 "
+Cape Regional Medical Center,Cape May Court House,149,"6,520","24,371","$807,756 "
+Capital Health Medical Center - Hopewell,Pennington,145,"11,188","59,292","$3,724,947 "
+Capital Health Regional Medical Center,Trenton,162,"6,579","41,096","$3,231,249 "
+CentraState Medical Center,Freehold,264,"12,451","58,181","$1,062,980 "
+Chilton Medical Center,Pompton Plains,175,"9,116","39,823","$1,122,169 "
+Christ Hospital,Jersey City,178,"8,868","46,421","$2,261,484 "
+Clara Maass Medical Center,Belleville,342,"12,605","68,843","$1,411,511 "
+Community Medical Center,Toms River,449,"19,660","107,270","$2,028,328 "
+Cooper University Hospital,Camden,574,"28,570","158,191","$4,353,407 "
+Deborah Heart and Lung Center,Browns Mills,86,"3,840","20,543","$962,878 "
+East Orange General Hospital,East Orange,196,"4,929","25,260","$650,633 "
+Englewood Hospital and Medical Center,Englewood,289,"13,937","71,852","$3,764,615 "
+Hackensack Meridian Health JFK Medical Center,Edison,447,"20,340","94,894","$2,483,575 "
+Hackensack Meridian Health Mountainside Medical Center,Montclair,231,"10,662","41,538","$1,219,069 "
+Hackensack Meridian Health Pascack Valley Medical Center,Westwood,78,"4,955","19,785","$523,703 "
+Hackensack University Medical Center,Hackensack,711,"36,706","220,920","$5,585,188 "
+Hackettstown Medical Center,Hackettstown,64,"3,320","13,575",$0 
+Hoboken University Medical Center,Hoboken,190,"4,659","22,389","$1,753,126 "
+Holy Name Medical Center,Teaneck,307,"12,271","64,840","$1,721,334 "
+Hudson Regional Hospital,Secaucus,106,"2,299","8,721","$643,970 "
+Hunterdon Medical Center,Flemington,184,"8,670","38,148","$850,659 "
+Inspira Medical Center Elmer,Elmer,83,"2,916","11,605","$295,625 "
+Inspira Medical Center Mullica Hill,Mullica Hill,0,0,0,$0 
+Inspira Medical Center Vineland,Vineland,325,"16,308","76,379","$1,869,640 "
+Inspira Medical Center Woodbury,Woodbury,253,"8,125","39,530","$1,102,446 "
+Jefferson Washington Township Hospital,Turnersville,0,0,0,$0 
+Jefferson Cherry Hill Hospital,Cherry Hill,522,"26,830","127,205","$3,655,950 "
+Jefferson Stratford Hospital,Stratford,0,0,0,$0 
+Jersey City Medical Center,Jersey City,308,"13,027","70,853","$2,021,296 "
+Jersey Shore University Medical Center,Neptune,597,"29,251","149,670","$3,690,475 "
+"LTACH - CareOne at Hackensack University Medical Center, Pascack Valley",Westwood,0,0,0,$0 
+LTACH - CareOne at Trinitas Regional Medical Center,Elizabeth,0,0,0,$0 
+Monmouth Medical Center,Long Branch,342,"14,787","66,681","$1,625,841 "
+"Monmouth Medical Center, Southern Campus",Lakewood,201,"6,098","35,950","$647,596 "
+Morristown Medical Center,Morristown,693,"41,066","187,734","$5,739,361 "
+Newark Beth Israel Medical Center,Newark,487,"18,423","123,208","$2,690,119 "
+Newton Medical Center,Newton,146,"8,118","35,235","$1,408,686 "
+Ocean Medical Center,Brick,318,"13,885","75,256","$1,824,627 "
+Overlook Medical Center,Summit,467,"23,734","97,514","$2,893,795 "
+Princeton House Behavioral Health,Princeton,0,0,0,$0 
+Princeton Medical Center,Plainsboro,355,"13,863","60,067","$2,133,883 "
+Raritan Bay Medical Center - Old Bridge Division,Old Bridge,0,0,0,$0 
+Raritan Bay Medical Center - Perth Amboy Division,Perth Amboy,302,"11,641","60,066","$1,347,018 "
+Riverview Medical Center,Red Bank,304,"13,930","59,017","$1,463,323 "
+Robert Wood Johnson University Hospital at Rahway,Rahway,122,"4,776","25,201","$895,850 "
+Robert Wood Johnson University Hospital New Brunswick,New Brunswick,610,"30,830","172,117","$5,360,762 "
+Robert Wood Johnson University Hospital Somerset,Somerville,297,"12,611","60,810","$1,735,061 "
+RWJ University Hospital Hamilton,Hamilton,152,"7,055","35,078","$1,367,986 "
+Saint Barnabas Medical Center,Livingston,552,"28,094","162,495","$3,382,848 "
+Saint Clare's Denville Hospital,Denville,367,"14,713","55,495","$1,203,777 "
+Saint Clare's Hospital - Dover,Dover,243,3,29,"$79,118 "
+Saint Francis Medical Center,Trenton,134,"4,718","22,457","$828,590 "
+Saint Joseph's University Medical Center,Paterson,698,"33,009","187,142","$3,914,809 "
+Saint Joseph's Wayne Medical Center,Wayne,141,"6,040","35,308","$310,154 "
+Saint Luke's Warren Campus,Phillipsburg,92,"4,077","16,852","$1,011,042 "
+Saint Mary's General Hospital,Passaic,145,"6,044","26,288","$630,525 "
+Saint Michael's Medical Center,Newark,147,"8,370","34,843","$933,529 "
+Saint Peter's University Hospital,New Brunswick,353,"18,954","89,506","$3,291,434 "
+Salem Medical Center,Salem,126,"2,647","9,081","$437,495 "
+Shore Medical Center,Somers Point,199,"8,638","34,352","$1,018,197 "
+Southern Ocean Medical Center,Manahawkin,174,"7,613","27,024","$943,670 "
+The University Hospital,Newark,355,"15,230","99,643","$2,807,647 "
+The Valley Hospital,Ridgewood,363,"20,249","91,764","$2,379,918 "
+Trinitas Regional Medical Center,Elizabeth,442,"10,723","51,849","$1,497,985 "
+VA New Jersey Health Care System - Lyons Campus,Lyons,0,0,0,$0 
+VA New Jersey Healthcare System - East Orange Campus,East Orange,0,0,0,$0 
+Valley-Mount Sinai Comprehensive Cancer Care,Paramus,0,0,0,$0 
+Virtua Marlton Hospital,Marlton,0,0,0,$0 
+Virtua Memorial Hospital,Mount Holly,339,"16,955","72,528","$1,824,004 "
+Virtua Our Lady of Lourdes Hospital,Camden,301,"14,304","53,146","$1,939,752 "
+Virtua Voorhees Hospital,Voorhees,587,"35,329","144,883","$3,844,933 "
+Virtua Willingboro Hospital,Willingboro,144,"6,686","29,822","$805,790 "
